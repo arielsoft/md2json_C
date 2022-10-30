@@ -1,0 +1,1 @@
+MSBuild.exe ALL_BUILD.vcxproj /p:configuration=release /p:platform=x64
